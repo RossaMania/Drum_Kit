@@ -8,6 +8,7 @@ body {
 h1 {
   font-size: 5rem;
   color: #A1F480;
+  text-transform: uppercase;
   font-family: 'Kalam', cursive;
   text-shadow: 5px 0 #7900FF;
 
